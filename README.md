@@ -9,3 +9,5 @@ cd GNCP
 <br>
 python gncp.py
 # Thanks for using, please fork and star :)
+
+https://youtu.be/_9ozdZ32uKU
