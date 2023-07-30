@@ -1,6 +1,8 @@
 # GNCP
 Get and check proxy with 3 type http, socks4, sock5s
+<br>
 All automatic
+<br>
 Edit time check in line 130 
 # Run
 git clone https://github.com/kyletran191/GNCP
