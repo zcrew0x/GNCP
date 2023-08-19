@@ -1,6 +1,5 @@
-__author__ = 'Kyle Tran'
-__version__ = '1.2'
-__github__ = 'github.com/kyletran191'
+__author__ = 'TRAN KHA'
+__github__ = 'github.com'
 __license__ = 'GNU General Public License v3.0'
 #=====Import Module=====#
 import os, sys, requests, json, re, datetime, threading, time
@@ -8,16 +7,15 @@ from pystyle import *
 from os import name 
 #=====Banner=====#
 text = r"""
- .d8888b.  888b    888  .d8888b.  8888888b.  
-d88P  Y88b 8888b   888 d88P  Y88b 888   Y88b 
-888    888 88888b  888 888    888 888    888 
-888        888Y88b 888 888        888   d88P 
-888  88888 888 Y88b888 888        8888888P"  
-888    888 888  Y88888 888    888 888        
-Y88b  d88P 888   Y8888 Y88b  d88P 888        
- "Y8888P88 888    Y888  "Y8888P"  888   
-
-           By @tranbaokha    
+ ╦╔═╔═╗╦╔═╔═╗╔═╗╦ ╦╦
+╠╩╗╠═╣╠╩╗╠═╣╚═╗╠═╣║
+╩ ╩╩ ╩╩ ╩╩ ╩╚═╝╩ ╩╩
+   
+    
+    
+    𝑻𝑶𝑶𝑳 𝑮𝑬𝑻 𝑨𝑵𝑫 𝑳𝑶𝑪 𝑷𝑹𝑶𝑿𝒀
+    𝑩𝒀 𝑲𝑨𝑲𝑨𝑺𝑯𝑰 𝑾𝑰𝑻𝑯 𝑳𝑶𝑽𝑬
+               
 """[:-1]
 
 banner = Add.Add(text, '', center=True)
